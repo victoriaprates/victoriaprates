@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @victoriaprates
+- 👋 Hi, I’m Victoria
 - 👀 I’m interested in Business intelligence analysts
 - 🌱 I’m currently learning Power BI | SQL | Python | Tableau
 
